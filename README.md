@@ -1,4 +1,5 @@
 Provably secure authenticated anonymous batch messaging for VANETs
+
 Andrea Huszti, Norbert Olah
 
 Vehicles require the ability to communicate with each other to improve transportation efficiency
